@@ -1,4 +1,6 @@
-# thermal-imaging
+# Thermal Imaging
+
+# Categories
 
 Categorizing thermal images based on the damage type
 
