@@ -4,7 +4,7 @@ Thermal camera shows the surface temperature of the object. The emissivity of th
 
 The surface temperature of an object is affected by thermal conductivity. If we consider outer wall of the building, increase in moisture content or moisture damage will alter thermal conductivity of the wall materials, and thus overall thermal conductivity. The thermal insulation layer of the wall contributes most to the thermal conductivity and is also most affected by moisture increase or moisture damage. **The change in the surface temperature of the building outer wall detected with thermal camera is most likely caused by moisture increase or moisture damage on the thermal insulation layer**.
 
-At this point reader might question that they fought that thermal camera is used for air leakage of building outer structures.
+At this point reader might question that they thought that thermal camera is used for finding air leakage on the building outer structures. Usually air leakage is consequence of structural movement caused by excess moisture in the structures.
 
 # Categories
 
