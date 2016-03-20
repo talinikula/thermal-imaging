@@ -2,6 +2,8 @@
 
 Thermal camera shows the surface temperature of the object. The emissivity of the object affects greatly to the measured temperature. Typically matt surface objects (timber, concrete etc.) have emissivity around 0.95 which means that they absorb and emit 95% of the inbound heat radiation.  Uneven or coarse surface or just dust on the surface will have an effect on the emissivity value. The shiny metal surface is opposite of matt surface in regards of emissivity. Shiny objects usually have emissivity around 0.05, so they act like a mirror to thermal radiation and rather reflect temperature of the surrounding objects than their own. This means that they show in thermal image false temperature. Concave surfaces with moderate emissivity values can be problematic because the surface radiates to itself resulting higher temperature value on thermal image. So be wary with those shiny and/or concave objects.
 
+The surface temperature of an object is affected by thermal conductivity. If we consider outer wall of the building, increase in moisture content or moisture damage will alter thermal conductivity of the wall materials, and thus overall thermal conductivity. The thermal insulation layer of the wall contributes most to the thermal conductivity and is also most affected by moisture increase or moisture damage. _The change in the surface temperature of the building outer wall detected with thermal camera is most likely caused by moisture increase or moisture damage on thermal insulation layer_.
+
 # Categories
 
 Categorizing thermal images based on the damage type
