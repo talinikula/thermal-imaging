@@ -8,6 +8,10 @@ At this point a reader might question that they thought that thermal camera is u
 
 Successfull thermal imaging requires temperature difference over object. This sets restrictions on when thermal imaging can be perfomed. After a cold night outer structures of the building are cooled and possible damages are more easily to be found.
 
+![Thermal image, normal looking wall, no major damages](vlcsnap-2016-01-27-12h50m23s985.png "Thermal image, normal looking wall, no major damages")
+
+*Thermal image, normal looking wall, no major damages*
+
 ![Possibly wet thermal insulation on bottom floors](vlcsnap-2016-01-31-18h10m02s069.png "Possibly wet thermal insulation on bottom floors")
 
 *Possibly wet thermal insulation on bottom floors*
