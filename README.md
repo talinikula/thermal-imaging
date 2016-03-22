@@ -14,7 +14,7 @@ Successfull thermal imaging requires temperature difference over object. This se
 
 ![Possibly wet thermal insulation on bottom floors](vlcsnap-2016-01-31-18h10m02s069.png "Possibly wet thermal insulation on bottom floors")
 
-*Possibly wet thermal insulation on bottom floors*
+*Thermal image, possibly wet thermal insulation on bottom floors*
 
 # Categories
 
