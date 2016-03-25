@@ -10,7 +10,7 @@ Successfull thermal imaging requires temperature difference over object. This se
 
 Thermal imaging can be perfomed from the inside or the outside of the building. Proglem with the outside imaging is that usually you have too deep angle of view to the building wall and reflecting thermal radiation from sky alters the result. Aslo some materials exhibit change in the emissivity value with the angle of view. This is one reason that in some literature it is recommended that thermal imaging should be done from the inside of the building. But we already have technology to aid us to do thermal imaging from outside of the building with field of view perpendicular to the target area. This id done with unmanned aerial systems (UAV, RPAS).
 
-![Thermal imaging with unmanned aerial system](vlcsnap-2016-01-27-12h50m23s985.png "Thermal imaging with unmanned aerial system")
+![Thermal imaging with unmanned aerial system](uav1.jpg "Thermal imaging with unmanned aerial system")
 
 *Thermal imaging with unmanned aerial system*
 
