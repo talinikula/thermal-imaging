@@ -4,6 +4,14 @@ The emphasis of this text is on thermal imaging of buildings. Thermal camera sho
 
 The surface temperature of an object is affected by thermal conductivity. If we consider outer wall of the building, the increase in moisture content or moisture damage will alter thermal conductivity of the wall materials, and thus overall thermal conductivity. The thermal insulation layer of the wall contributes most to the thermal conductivity and is also most affected by moisture increase or moisture damage. **The change in the surface temperature of the buildings outer wall detected with thermal camera is most likely caused by moisture increase or moisture damage on the thermal insulation layer**.
 
+![Thermal image, normal looking wall, no major damages](vlcsnap-2016-01-27-12h50m23s985.png "Thermal image, normal looking wall, no major damages")
+
+*Thermal image, normal looking wall, no major damages*
+
+![Possibly wet thermal insulation on bottom floors](vlcsnap-2016-01-31-18h10m02s069.png "Possibly wet thermal insulation on bottom floors")
+
+*Thermal image, possibly wet thermal insulation on bottom floors*
+
 At this point a reader might question that they thought that thermal camera is used for finding air leakage on the building outer structures. Usually air leakage is consequence of structural movement caused by excess moisture in the structures. So we are back on the moisture related problem. Of course on new or under 2 year old buildings there is air leakage caused by construction phase and settling of the structures. The most problems in buildings occurs during rest of the life cycle. To the writer locating and detecting moisture damage without demolition of structures (possibly in vain) is of special interest.
 
 Successfull thermal imaging requires temperature difference over object. This sets restrictions on when thermal imaging can be perfomed.
@@ -23,14 +31,6 @@ The data is recorded locally on UAV and streamed for monitoring purposed to the 
 *The live data streaming to ground station*
 
 See [Aerial Thermography video on Vimeo](https://vimeo.com/149117940) for procedures involved in thermal imaging from unmanned aerial system.
-
-![Thermal image, normal looking wall, no major damages](vlcsnap-2016-01-27-12h50m23s985.png "Thermal image, normal looking wall, no major damages")
-
-*Thermal image, normal looking wall, no major damages*
-
-![Possibly wet thermal insulation on bottom floors](vlcsnap-2016-01-31-18h10m02s069.png "Possibly wet thermal insulation on bottom floors")
-
-*Thermal image, possibly wet thermal insulation on bottom floors*
 
 # Categories
 
