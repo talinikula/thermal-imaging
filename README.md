@@ -16,9 +16,9 @@ Thermal imaging can be perfomed from the inside or the outside of the building. 
 
 The data is recorded locally on UAV and streamed for monitoring purposed to the ground station.
 
-![The live data streaming to groud station](monitor.jpg "The live data streaming to groud station")
+![The live data streaming to ground station](monitor.jpg "The live data streaming to ground station")
 
-*The live data streaming to groud station*
+*The live data streaming to ground station*
 
 See [Aerial Thermography video on Vimeo](https://vimeo.com/149117940) for procedures involved in thermal imaging from unmanned aerial system.
 
