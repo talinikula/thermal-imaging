@@ -14,7 +14,7 @@ Thermal imaging can be perfomed from the inside or the outside of the building. 
 
 *Thermal imaging with unmanned aerial system*
 
-[Aerial Thermography video](https://vimeo.com/149117940)
+[Aerial Thermography video on Vimeo](https://vimeo.com/149117940)
 
 ![Thermal image, normal looking wall, no major damages](vlcsnap-2016-01-27-12h50m23s985.png "Thermal image, normal looking wall, no major damages")
 
