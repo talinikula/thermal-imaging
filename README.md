@@ -6,11 +6,11 @@ The surface temperature of an object is affected by thermal conductivity. If we 
 
 ![Thermal image, normal looking wall, no major damages](vlcsnap-2016-01-27-12h50m23s985.png "Thermal image, normal looking wall, no major damages")
 
-*Thermal image, normal looking wall, no major damages. Image taken before sunrise.*
+*Thermal image, normal looking wall, no major damages. Image taken before sunrise, no external heat sources present.*
 
 ![Possibly wet thermal insulation on bottom floors](vlcsnap-2016-01-31-18h10m02s069.png "Possibly wet thermal insulation on bottom floors")
 
-*Thermal image, possibly wet thermal insulation on bottom floors. Image taken before sunrise.*
+*Thermal image, possibly wet thermal insulation on bottom floors. Image taken before sunrise, no external heat sources present.*
 
 At this point a reader might question that they thought that thermal camera is used for finding air leakage on the building outer structures. Usually air leakage is consequence of structural movement caused by excess moisture in the structures. So we are back on the moisture related problem. Of course on new or under 2 year old buildings there is air leakage caused by construction phase and settling of the structures. The most problems in buildings occurs during rest of the life cycle. To the writer locating and detecting moisture damage without demolition of structures (possibly in vain) is of special interest.
 
